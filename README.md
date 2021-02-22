@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is 李奇林 and I'm a software developer engineer. I'm from China 🇨🇳, living in 成都 and currently working at 微拍堂
+My name is dashing uniuqe and I'm a software developer engineer. I'm from China 🇨🇳, living in 成都 and currently working at 微拍堂
 
 <hr>
 
