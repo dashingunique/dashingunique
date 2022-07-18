@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is dashing uniuqe and I'm a software developer engineer. I'm from China 🇨🇳, living in chengdu.
+My name is Dragon.Li and I'm a software developer engineer. I'm from China 🇨🇳, living in chengdu.
 
 <hr>
 
