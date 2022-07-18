@@ -5,8 +5,8 @@ My name is Dragon.Li, 26 years old a software developer engineer. I'm from China
 <hr>
 
 My main professional skills are as follows:
-- Proven software development experience in PHP
-- Understanding of open source projects like Laravel, Symfony,etc
+- Proven software development experience in PHP and Golang.
+- Understanding of open source projects like Laravel, Symfony, Gin, etc
 - Good knowledge of relational databases, version control tools and of developing web services
 - Experience in common third-party APIs (Alipay, weixin, meituan etc)
 - Passion for best design and coding practices and a desire to develop new bold ideas
